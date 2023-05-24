@@ -1,3 +1,5 @@
+from algemene_functies import mijn_functie_2
+
 def aanbiedingen(smaak, prijs, korting):
     aanbieding = f"Vandaag in de aanbieding: emmertje ijs (1 liter) in de {smaak}, van {prijs} euro voor {prijs - (prijs * korting)} euro."
     return aanbieding
