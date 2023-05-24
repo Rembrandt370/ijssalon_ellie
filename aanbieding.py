@@ -1,2 +1,2 @@
-from algemene_functies import mijn_finctie_2
+from algemene_functies import mijn_functie_2
 
